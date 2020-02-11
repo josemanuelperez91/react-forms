@@ -1,0 +1,18 @@
+h1, p {
+  font-family: Lato;
+}
+
+table td,th{
+  border-bottom: 1px solid black;
+}
+table {
+  width: 100%;
+    border-spacing: 0;
+
+}
+button,input{
+  display:block;
+}
+button{
+  margin-top:5px;
+}
